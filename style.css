@@ -1,0 +1,131 @@
+section nav div img{
+    transform: scale(0.75,0.75);
+}
+li{
+     display: inline;
+     text-align: center;
+     font-family:Orbitron;
+     font-weight: 800px;
+     font-size: 30px;
+    padding: 10px;
+}
+nav div{
+    display: inline-block;
+    padding:50px; 
+}
+.navbar-container{
+    height: 200px;
+}
+.button-group{
+   position:relative;
+   left:0px;
+   top:00px 
+}
+.nav-button{
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    position: relative;
+    left: 100px;
+    
+}
+div.search-icon{
+    position: relative;
+    left: 200px;
+    top: 10px;
+    
+}
+
+section div div {
+    display: inline;
+}
+
+
+.hero-container-right{
+    display:inline;
+    text-align: center;   
+}
+.hero-heading{
+    font-family:Orbitron ;
+    font-size: 50px;
+    text-align: center;
+}
+p.hero-description{
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    left: 200px;
+    font-family:Poppins; 
+    text-align: center;
+}
+.square{
+    width: 40px;
+    height: auto;
+    position: relative;
+    float: left;
+    left:220px;
+    top: 162px;  
+    z-index: 1;
+    transform: scale(0.8,0.8);
+}
+.star{
+    position: relative;
+    left: 800px;
+    top: 25px;
+
+}
+.star2{
+    position: relative;
+    top: 400px;
+    left: 250px;
+    transform: scale(0.1);
+}
+span.globe{
+    position: relative;
+    left: 200px;
+}
+section div div img{
+    width: 420px;
+    height: auto;
+    float: left;
+    position:relative;
+    left :50px;
+    z-index: 2;
+    top: -20px;
+}
+section div div div span img{
+    width: 30px;
+    height: auto;
+    left: 430px;
+    top: 50px;
+    padding: 10px;
+}
+button.button-email {
+    position: relative;
+    left:300px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: orbitron;
+}
+button.button-join{
+    position: relative;
+    left:330px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: orbitron;
+ }
+h4{
+    position: relative;
+    top:80px;    
+}
