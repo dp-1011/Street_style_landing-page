@@ -1,15 +1,13 @@
 # Hello I am **Devang** and welcome to my first ever project.
-I know the code quality is very very bad, I hope it gets 
-better with every passing project. This project will always
-be special to me.
-
+I know the code quality is very very bad, I hope it gets  better with every passing project. This project will always be special to me.
+</br>
 # 💻 Tech Stack Used :
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 </br>
 
- ## Project Name : Restaurant Landing Page !
+ ## Project Name : Street Style Landing Page !
 
 
 </br>
